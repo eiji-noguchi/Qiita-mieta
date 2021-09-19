@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title {
+  /* flex-grow: 1; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.content {
+  margin-top: 65px;
+}
